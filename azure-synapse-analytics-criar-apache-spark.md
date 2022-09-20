@@ -1,3 +1,5 @@
+## Criar Apache Spark no Azure Synapse Analytics
+
 Apresentamos nesse vídeo como criar o Apache Spark no Azure Synapse Analytics para aumentar a capacidade de computação em nuvem nas análises dos dados.
 
 Iremos conhecer:
