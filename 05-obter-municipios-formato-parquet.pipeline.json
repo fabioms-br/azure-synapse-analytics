@@ -1,0 +1,260 @@
+{
+    "name": "p02_IBGE_Municipios",
+    "properties": {
+        "activities": [
+            {
+                "name": "Municipio",
+                "type": "Copy",
+                "dependsOn": [],
+                "policy": {
+                    "timeout": "7.00:00:00",
+                    "retry": 0,
+                    "retryIntervalInSeconds": 30,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "source": {
+                        "type": "JsonSource",
+                        "storeSettings": {
+                            "type": "HttpReadSettings",
+                            "requestMethod": "GET"
+                        },
+                        "formatSettings": {
+                            "type": "JsonReadSettings"
+                        }
+                    },
+                    "sink": {
+                        "type": "ParquetSink",
+                        "storeSettings": {
+                            "type": "AzureBlobFSWriteSettings"
+                        },
+                        "formatSettings": {
+                            "type": "ParquetWriteSettings"
+                        }
+                    },
+                    "enableStaging": false,
+                    "translator": {
+                        "type": "TabularTranslator",
+                        "mappings": [
+                            {
+                                "source": {
+                                    "path": "$['id']"
+                                },
+                                "sink": {
+                                    "name": "id",
+                                    "type": "String"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "path": "$['nome']"
+                                },
+                                "sink": {
+                                    "name": "nome",
+                                    "type": "String"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "path": "$['microrregiao']['id']"
+                                },
+                                "sink": {
+                                    "name": "microrregiao_id",
+                                    "type": "String"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "path": "$['microrregiao']['nome']"
+                                },
+                                "sink": {
+                                    "name": "microrregiao_nome",
+                                    "type": "String"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "path": "$['microrregiao']['mesorregiao']['id']"
+                                },
+                                "sink": {
+                                    "name": "microrregiao_mesorregiao_id",
+                                    "type": "String"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "path": "$['microrregiao']['mesorregiao']['nome']"
+                                },
+                                "sink": {
+                                    "name": "microrregiao_mesorregiao_nome",
+                                    "type": "String"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "path": "$['microrregiao']['mesorregiao']['UF']['id']"
+                                },
+                                "sink": {
+                                    "name": "microrregiao_mesorregiao_UF_id",
+                                    "type": "String"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "path": "$['microrregiao']['mesorregiao']['UF']['sigla']"
+                                },
+                                "sink": {
+                                    "name": "microrregiao_mesorregiao_UF_sigla",
+                                    "type": "String"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "path": "$['microrregiao']['mesorregiao']['UF']['nome']"
+                                },
+                                "sink": {
+                                    "name": "microrregiao_mesorregiao_UF_nome",
+                                    "type": "String"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "path": "$['microrregiao']['mesorregiao']['UF']['regiao']['id']"
+                                },
+                                "sink": {
+                                    "name": "microrregiao_mesorregiao_UF_regiao_id",
+                                    "type": "String"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "path": "$['microrregiao']['mesorregiao']['UF']['regiao']['sigla']"
+                                },
+                                "sink": {
+                                    "name": "microrregiao_mesorregiao_UF_regiao_sigla",
+                                    "type": "String"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "path": "$['microrregiao']['mesorregiao']['UF']['regiao']['nome']"
+                                },
+                                "sink": {
+                                    "name": "microrregiao_mesorregiao_UF_regiao_nome",
+                                    "type": "String"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "path": "$['regiao-imediata']['id']"
+                                },
+                                "sink": {
+                                    "name": "regiao-imediata_id",
+                                    "type": "String"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "path": "$['regiao-imediata']['nome']"
+                                },
+                                "sink": {
+                                    "name": "regiao-imediata_nome",
+                                    "type": "String"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "path": "$['regiao-imediata']['regiao-intermediaria']['id']"
+                                },
+                                "sink": {
+                                    "name": "regiao-imediata_regiao-intermediaria_id",
+                                    "type": "String"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "path": "$['regiao-imediata']['regiao-intermediaria']['nome']"
+                                },
+                                "sink": {
+                                    "name": "regiao-imediata_regiao-intermediaria_nome",
+                                    "type": "String"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "path": "$['regiao-imediata']['regiao-intermediaria']['UF']['id']"
+                                },
+                                "sink": {
+                                    "name": "regiao-imediata_regiao-intermediaria_UF_id",
+                                    "type": "String"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "path": "$['regiao-imediata']['regiao-intermediaria']['UF']['sigla']"
+                                },
+                                "sink": {
+                                    "name": "regiao-imediata_regiao-intermediaria_UF_sigla",
+                                    "type": "String"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "path": "$['regiao-imediata']['regiao-intermediaria']['UF']['nome']"
+                                },
+                                "sink": {
+                                    "name": "regiao-imediata_regiao-intermediaria_UF_nome",
+                                    "type": "String"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "path": "$['regiao-imediata']['regiao-intermediaria']['UF']['regiao']['id']"
+                                },
+                                "sink": {
+                                    "name": "regiao-imediata_regiao-intermediaria_UF_regiao_id",
+                                    "type": "String"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "path": "$['regiao-imediata']['regiao-intermediaria']['UF']['regiao']['sigla']"
+                                },
+                                "sink": {
+                                    "name": "regiao-imediata_regiao-intermediaria_UF_regiao_sigla",
+                                    "type": "String"
+                                }
+                            },
+                            {
+                                "source": {
+                                    "path": "$['regiao-imediata']['regiao-intermediaria']['UF']['regiao']['nome']"
+                                },
+                                "sink": {
+                                    "name": "regiao-imediata_regiao-intermediaria_UF_regiao_nome",
+                                    "type": "String"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "inputs": [
+                    {
+                        "referenceName": "IBGEMunicipiosJson",
+                        "type": "DatasetReference"
+                    }
+                ],
+                "outputs": [
+                    {
+                        "referenceName": "IBGEMunicipiosParquet",
+                        "type": "DatasetReference"
+                    }
+                ]
+            }
+        ],
+        "annotations": [],
+        "lastPublishTime": "2022-04-23T16:25:42Z"
+    },
+    "type": "Microsoft.Synapse/workspaces/pipelines"
+}

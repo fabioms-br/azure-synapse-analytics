@@ -1,0 +1,70 @@
+{
+    "name": "p01_BCB_Dolar_Cotacoes",
+    "properties": {
+        "description": "Obter os valores de cotações do dolar do Banco Central do Brasil",
+        "activities": [
+            {
+                "name": "Copy_o1e",
+                "type": "Copy",
+                "dependsOn": [],
+                "policy": {
+                    "timeout": "7.00:00:00",
+                    "retry": 0,
+                    "retryIntervalInSeconds": 30,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [
+                    {
+                        "name": "Source",
+                        "value": "consultaBoletim.do?method=gerarCSVFechamentoMoedaNoPeriodo&ChkMoeda=61&DATAINI=01/01/2021&DATAFIM=11/04/2022"
+                    },
+                    {
+                        "name": "Destination",
+                        "value": "fabiomsfilesys//bcb-dolar-cotacoes.csv"
+                    }
+                ],
+                "typeProperties": {
+                    "source": {
+                        "type": "DelimitedTextSource",
+                        "storeSettings": {
+                            "type": "HttpReadSettings",
+                            "requestMethod": "GET"
+                        },
+                        "formatSettings": {
+                            "type": "DelimitedTextReadSettings",
+                            "skipLineCount": 0
+                        }
+                    },
+                    "sink": {
+                        "type": "DelimitedTextSink",
+                        "storeSettings": {
+                            "type": "AzureBlobFSWriteSettings"
+                        },
+                        "formatSettings": {
+                            "type": "DelimitedTextWriteSettings",
+                            "quoteAllText": true,
+                            "fileExtension": ".txt"
+                        }
+                    },
+                    "enableStaging": false
+                },
+                "inputs": [
+                    {
+                        "referenceName": "SourceDataset_o1e",
+                        "type": "DatasetReference"
+                    }
+                ],
+                "outputs": [
+                    {
+                        "referenceName": "DestinationDataset_o1e",
+                        "type": "DatasetReference"
+                    }
+                ]
+            }
+        ],
+        "annotations": [],
+        "lastPublishTime": "2022-04-12T00:04:48Z"
+    },
+    "type": "Microsoft.Synapse/workspaces/pipelines"
+}
