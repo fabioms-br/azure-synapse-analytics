@@ -24,7 +24,7 @@ Nesse vídeo apresentamos como integrar o Power BI Serviço no Azure Synapse Ana
 Apresentamos nesse vídeo como criar o Lake Database, uma estrutura mais intuitiva que integra o melhor do Datalake com o banco de dados SQL do Azure Synapse Analytics.
 
 ### [Criar Apache Spark no Azure Synapse Analytics](/azure-synapse-analytics-criar-apache-spark.md)
-
+Apresentamos nesse vídeo como criar o Apache Spark no Azure Synapse Analytics para aumentar a capacidade de computação em nuvem nas análises dos dados.
 
 ### [Web Scraping no Azure Synapse Analytics](/azure-synapse-analytics-web-scraping.md)
 Apresentamos nesse video como utilizar a técnica de Web Scraping para extrair dados de páginas da internet utilizando o Python no Azure Synapse Analytics.
