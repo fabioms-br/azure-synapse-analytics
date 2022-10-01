@@ -1,5 +1,7 @@
-## Azure Synapse Analytics
-Keywords: Data Platform, Azure Synapse Analytics, Synapse Analytics, Azure Synapse, analytics service, big data, limitless analytics service, Big Data analytics, data warehousing,
+## Azure Synapse Analytics  
+**Keywords:** Data Platform, Azure Synapse Analytics, Synapse Analytics, Azure Synapse, analytics service, big data, limitless analytics service, Big Data analytics, data warehousing,  
+
+**Youtube Playlist**: [https://youtube.com/playlist?list=PL3CylihEP9UT6enQzrtzzgYWSXfAXizu7](https://youtube.com/playlist?list=PL3CylihEP9UT6enQzrtzzgYWSXfAXizu7)  
 ### [1 - Azure Synapse Analytics. Como Criar? Quanto Custa?](/synapse-analytics-como-criar-quanto-custa.md)
 Apresentamos nesse vídeo como criar, e quanto custa o recurso Azure Synapse Analytics, disponibilizando um ambiente integrado com ingestão de dados e computação em nuvem para aumentar a produtividade reduzindo a curva de aprendizado.
 
