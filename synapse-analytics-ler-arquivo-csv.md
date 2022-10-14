@@ -18,6 +18,9 @@ Iremos conhecer as técnicas:
 ✅ Acesse o vídeo no link abaixo:
 http://www.fabioms.com.br/?url=synapse-analytics-ler-arquivo-csv
 
+📁 Arquivos disponíveis no GitHub:
+http://www.fabioms.com.br/?url=github
+
 😉 Gostou do conteúdo? Inscreva-se também no canal:
 http://www.fabioms.com.br/?url=youtube-subscribe 
 
