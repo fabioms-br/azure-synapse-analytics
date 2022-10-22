@@ -1,5 +1,5 @@
 # Azure Synapse Analytics  
-Aprender análise de dados no Azure Synapse Analytics
+### **Aprender análise de dados no Azure Synapse Analytics**  
 **Keywords:** Data Platform, Azure Synapse Analytics, Synapse Analytics, Azure Synapse, analytics service, big data, limitless analytics service, Big Data analytics, data warehousing,  
 
 😉 Gostou do conteúdo? Inscreva-se também no canal: [http://www.fabioms.com.br/?url=youtube-subscribe](http://www.fabioms.com.br/?url=youtube-subscribe)
