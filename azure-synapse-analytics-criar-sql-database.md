@@ -19,8 +19,11 @@ Iremos conhecer as técnicas:
 🔹Escolher o modo de contectividade para reduzir os custos;  
 🔹Exibir os dados analisando em visual de linha.  
 
-✅ Acesse o vídeo no link abaixo:
+▶️ Acesse o vídeo no link abaixo:
 http://www.fabioms.com.br/?url=azure-synapse-analytics-criar-sql-database
+
+📁 Arquivos disponíveis no GitHub:
+http://www.fabioms.com.br/?url=github
 
 😉 Gostou do conteúdo? Inscreva-se também no canal:
 http://www.fabioms.com.br/?url=youtube-subscribe 
