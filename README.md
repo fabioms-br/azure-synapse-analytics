@@ -7,7 +7,7 @@
 > **Youtube playlist**: [https://youtube.com/playlist?list=PL3CylihEP9UT6enQzrtzzgYWSXfAXizu7](https://youtube.com/playlist?list=PL3CylihEP9UT6enQzrtzzgYWSXfAXizu7)  
 
 
-## [1. Azure Synapse Analytics. Como Criar? Quanto Custa?](/synapse-analytics-como-criar-quanto-custa.md)
+## [1. Como Criar e Quanto Custa o Azure Synapse Analytics](/synapse-analytics-como-criar-quanto-custa.md)
 Apresentamos nesse vídeo como criar, e quanto custa o recurso Azure Synapse Analytics, disponibilizando um ambiente integrado com ingestão de dados e computação em nuvem para aumentar a produtividade reduzindo a curva de aprendizado.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=synapse-analytics-como-criar-quanto-custa](http://www.fabioms.com.br/?url=synapse-analytics-como-criar-quanto-custa)  
 

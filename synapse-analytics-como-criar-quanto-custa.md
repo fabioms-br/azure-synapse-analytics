@@ -1,6 +1,6 @@
-## Azure Synapse Analytics. Como Criar? Quanto Custa?
+## Como Criar e Quanto Custa o Azure Synapse Analytics
 
-<img src="https://fabioms.com.br/uploads/youtube/jRkv7_wu0vw.png" alt="Azure Synapse Analytics. Como Criar? Quanto Custa?" title="Azure Synapse Analytics" width="320"/>
+<img src="https://fabioms.com.br/uploads/youtube/jRkv7_wu0vw.png" alt="Como Criar e Quanto Custa o Azure Synapse Analytics" title="Azure Synapse Analytics" width="320"/>
 
 Apresentamos nesse vídeo como criar, e quanto custa o recurso Azure Synapse Analytics, disponibilizando um ambiente integrado com ingestão de dados e computação em nuvem para aumentar a produtividade reduzindo a curva de aprendizado.
 
@@ -12,10 +12,19 @@ Iremos conhecer as técnicas:
 🔹Conhecer os tipos de computação em nuvem disponíveis (T-SQL, APACHE SPARK, AZURE DATA EXPLORER);  
 🔹Conhecer os custos agregados aos recursos. (SERVERLESS, DEDICATED POOL).  
 
-✅ Acesse o vídeo no link abaixo:
+▶️ Acesse o vídeo no link abaixo:
 http://www.fabioms.com.br/?url=synapse-analytics-como-criar-quanto-custa
+
+📁 Arquivos disponíveis no GitHub, me segue por lá:
+http://www.fabioms.com.br/?url=github
 
 😉 Gostou do conteúdo? Inscreva-se também no canal:
 http://www.fabioms.com.br/?url=youtube-subscribe 
+
+🎁 Banco de Dados para Estudo SQL:
+Se você quer uma base para estudar liguagem #SQL ou #BusinessIntelligence, elaborar seu curso ou treinamento, aqui você encontrará material. 
+Contribua e cite o projeto para fortalecê-lo!
+http://www.fabioms.com.br/?url=github-estudados
+#microsft #dataplatform #azure #synapseanalytics #apache #spark  #python #DicaDoFabinho
 
 #microsoft #dataplatform #azure #synapseanalytics #computação #produtividade #sql #DicaDoFabinho

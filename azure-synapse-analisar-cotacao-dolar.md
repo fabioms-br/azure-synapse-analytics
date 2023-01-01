@@ -18,7 +18,7 @@ Iremos conhecer as técnicas:
 🔹Converter o tipo de dados (CONVERT, SUBSTRING, NUMERIC);  
 🔹Visualizar o resultado em gráfico para análise Golden Cross/Death Cross.  
 
-✅ Acesse o vídeo no link abaixo:
+▶️ Acesse o vídeo no link abaixo:
 http://www.fabioms.com.br/?url=azure-synapse-analisar-cotacao-dolar
 
 📁 Arquivos disponíveis no GitHub:
@@ -26,5 +26,10 @@ http://www.fabioms.com.br/?url=github
 
 😉 Gostou do conteúdo? Inscreva-se também no canal:
 http://www.fabioms.com.br/?url=youtube-subscribe 
+
+🎁 Banco de Dados para Estudo SQL:
+Se você quer uma base para estudar liguagem #SQL ou #BusinessIntelligence, elaborar seu curso ou treinamento, aqui você encontrará material. 
+Contribua e cite o projeto para fortalecê-lo!
+http://www.fabioms.com.br/?url=github-estudados
 
 #microsoft #dataplatform #azure #synapseanalytics #analytics #cotacaodolar #DicadoFabinho
