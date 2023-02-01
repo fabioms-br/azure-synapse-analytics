@@ -18,6 +18,8 @@ Iremos conhecer as técnicas:
 🔹Converter o tipo de dados (CONVERT, SUBSTRING, NUMERIC);  
 🔹Visualizar o resultado em gráfico para análise Golden Cross/Death Cross.  
 
+👍Deixe seu Like para valorizar o conteúdo.
+
 ▶️ Acesse o vídeo no link abaixo:
 http://www.fabioms.com.br/?url=azure-synapse-analisar-cotacao-dolar
 
