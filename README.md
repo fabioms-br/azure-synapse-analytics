@@ -40,7 +40,7 @@ Apresentamos nesse vídeo como criar o Lake Database, uma estrutura mais intuiti
 Apresentamos nesse vídeo como criar o Apache Spark no Azure Synapse Analytics para aumentar a capacidade de computação em nuvem nas análises dos dados.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=azure-synapse-analytics-criar-apache-spark](http://www.fabioms.com.br/?url=azure-synapse-analytics-criar-apache-spark)  
 
-## [9. Web Scraping no Azure Synapse Analytics](/azure-synapse-analytics-web-scraping.md)
+## [9. Como Fazer Web Scraping no Azure Synapse Analytics](/azure-synapse-analytics-web-scraping.md)
 Apresentamos nesse video como utilizar a técnica de Web Scraping para extrair dados de páginas da internet utilizando o Python no Azure Synapse Analytics.
 
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=azure-synapse-analytics-web-scraping](http://www.fabioms.com.br/?url=azure-synapse-analytics-web-scraping)  

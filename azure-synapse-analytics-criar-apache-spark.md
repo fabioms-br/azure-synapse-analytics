@@ -22,17 +22,17 @@ Iremos conhecer as técnicas:
 🔹Parar a execução da sessão (STOP SESSION).
 
 ▶️ Acesse o vídeo no link abaixo:
-http://www.fabioms.com.br/?url=azure-synapse-analytics-criar-apache-spark
+https://www.fabioms.com.br/?url=azure-synapse-analytics-criar-apache-spark
 
 😉 Gostou do conteúdo? Inscreva-se também no canal:
-http://www.fabioms.com.br/?url=youtube-subscribe
+https://www.fabioms.com.br/?url=youtube-subscribe
 
 📁 Arquivos disponíveis no GitHub, não esqueça de seguir:
-http://www.fabioms.com.br/?url=github
+https://www.fabioms.com.br/?url=github
 
 🎁 Banco de Dados para Estudo SQL:
 Se você quer uma base para estudar liguagem #SQL ou #BusinessIntelligence, elaborar seu curso ou treinamento, aqui você encontrará material. 
 Contribua e cite o projeto para fortalecê-lo!
-http://www.fabioms.com.br/?url=github-estudados
+https://www.fabioms.com.br/?url=github-estudados
 
 #microsft #dataplatform #azure #synapseanalytics #apache #spark  #data #DicaDoFabinho

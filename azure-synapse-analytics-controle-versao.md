@@ -14,12 +14,12 @@ Iremos conhecer as técnicas:
 🔹Visualizar os objetos e suas alterações (REPOS, COMPARE, COMMITS).  
 
 ▶️ Acesse o vídeo no link abaixo:
-http://www.fabioms.com.br/?url=azure-synapse-analytics-controle-versao
+https://www.fabioms.com.br/?url=azure-synapse-analytics-controle-versao
 
 📁 Arquivos disponíveis no GitHub:
-http://www.fabioms.com.br/?url=github
+https://www.fabioms.com.br/?url=github
 
 😉 Gostou do conteúdo? Inscreva-se também no canal:
-http://www.fabioms.com.br/?url=youtube-subscribe
+https://www.fabioms.com.br/?url=youtube-subscribe
 
 #microsoft #dataplatform #azure #synapseanalytics #computação #produtividade #sql #dicadofabinho 

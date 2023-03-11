@@ -19,9 +19,9 @@ Conhecendo os assuntos:
 Site do IBGE: https://servicodados.ibge.gov.br/api/docs
 
 ✅ Acesse o vídeo no link abaixo:
-http://www.fabioms.com.br/?url=azure-synapse-obter-municipios-formato-parquet
+https://www.fabioms.com.br/?url=azure-synapse-obter-municipios-formato-parquet
 
 😉 Gostou do conteúdo? Inscreva-se também no canal:
-http://www.fabioms.com.br/?url=youtube-subscribe 
+https://www.fabioms.com.br/?url=youtube-subscribe 
 
 #microsoft #dataplatform #datamanagement #azure #synapseanalytics #pipeline  #json #parquet #ibge #dataanalysis #analytics  #DicadoFabinho

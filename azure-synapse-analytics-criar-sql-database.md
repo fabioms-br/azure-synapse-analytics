@@ -20,12 +20,12 @@ Iremos conhecer as técnicas:
 🔹Exibir os dados analisando em visual de linha.  
 
 ▶️ Acesse o vídeo no link abaixo:
-http://www.fabioms.com.br/?url=azure-synapse-analytics-criar-sql-database
+https://www.fabioms.com.br/?url=azure-synapse-analytics-criar-sql-database
 
 📁 Arquivos disponíveis no GitHub:
-http://www.fabioms.com.br/?url=github
+https://www.fabioms.com.br/?url=github
 
 😉 Gostou do conteúdo? Inscreva-se também no canal:
-http://www.fabioms.com.br/?url=youtube-subscribe 
+https://www.fabioms.com.br/?url=youtube-subscribe 
 
 #microsoft #dataplatform #azure #synapse #analytics #sql #database #DicaDoFabinho
