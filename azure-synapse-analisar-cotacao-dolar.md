@@ -1,6 +1,6 @@
-## Análise de Cotação do dolar no Azure Synapse Analytics
+## #063 Análise de Cotação do dolar no Azure Synapse Analytics
 
-<img src="https://fabioms.com.br/uploads/youtube/BoHocs8KGIk.png" alt="Análise de Cotação do dolar no Azure Synapse Analytics" title="Azure Synapse Analytics" width="320"/>
+<img src="https://fabioms.com.br//uploads/daily-posts/Slide63.mp4" alt="#063 Análise de Cotação do dolar no Azure Synapse Analytics" title="Azure Synapse Analytics" width="320"/>
 
 Apresentamos nesse vídeo como analisar a cotação do dolar utilizando o ambiente centralizado de funcionalidades do Azure Synapse Analytics.
 

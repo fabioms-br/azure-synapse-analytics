@@ -1,10 +1,10 @@
-## Controle de Versão no Azure Synapse Analytics 
+## Controle de Versão no Azure Synapse Analytics
 
-<img src="https://fabioms.com.br//uploads/youtube/Oog4lmPIN3M.png" alt="Controle de Versão no Azure Synapse Analytics " title="Azure Synapse Analytics" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Oog4lmPIN3M.png" alt="Controle de Versão no Azure Synapse Analytics" title="Azure Synapse Analytics" width="320"/>
 
 Apresentamos nesse vídeo como habilitar o controle de versão dos objetos existentes do Azure Synapse Analytics associando ao repositório do Azure DevOps.
 
-Iremos conhecer as técnicas:
+Iremos conhecer as técnicas:  
 🔹Criar pasta em repositório do Azure DevOps (REPOS, NEW FOLDER);  
 🔹Criar Commit das alterações (COMMIT, COMMENT, BRANCH);  
 🔹Configurar controle de versão no Azure Synapse (GIT CONFIGURATION);  

@@ -1,27 +1,32 @@
-## Obter Municípios do Brasil no Azure Synapse Analytics
+## Como ler dados no formato JSON no Azure Synapse Analytics
 
-<img src="https://fabioms.com.br/uploads/youtube/uU9WbUUd9KQ.png" alt="Obter Municípios do Brasil no Azure Synapse Analytics" title="Azure Synapse Analytics" width="320"/>
+<img src="https://fabioms.com.br/uploads/youtube/uU9WbUUd9KQ.png" alt="Como ler dados no formato JSON no Azure Synapse Analytics" title="Azure Synapse Analytics" width="320"/>
 
-Apresentamos nesse vídeo como obter os munícipios do Brasil utilizando o Azure Synapse Analytics com extração dos dados em formato JSON na internet e armazenando no Azure Datalake em format Parquet.
+Apresentamos nesse vídeo como ler dados em formato JSON, obtendo os munícipios do Brasil do site IBGE e armazenando no Azure Datalake em format Parquet utilizando o Azure Synapse Analytics.
 
-Conhecendo os assuntos:
-- Criar pipeline com atividade de copiar dados;
-- Configurar os dados de origem (HTTP, JSON);
-- Obter URL dos dados no site do IBGE;
-- Mapear o esquema dos dados de origem (IMPORT SCHEMA);
-- Configurar os dados de destino (DATALAKE, PARQUET);
-- Alguns motivos para utilização do formato Parquet;
-- Executar e monitorar gatilho (TRIGGER);
-- Identificar os custos da execução do pipeline (RUN CONSUMPTION);
-- Gerar script de leitura do arquivo formato PARQUET;
-- Mapear as colunas de destino (MAPPING);
+Iremos conhecer as técnicas:
+🔹Criar pipeline com atividade de copiar dados;  
+🔹Configurar os dados de origem (HTTP, JSON);  
+🔹Obter URL dos dados no site do IBGE;  
+Acesse por: https://servicodados.ibge.gov.br/api/docs
+🔹Mapear o esquema dos dados de origem (IMPORT SCHEMA);  
+🔹Configurar os dados de destino (DATALAKE, PARQUET);  
+🔹Alguns motivos para utilização do formato Parquet;  
+🔹Executar e monitorar gatilho (TRIGGER);  
+🔹Identificar os custos da execução do pipeline (RUN CONSUMPTION);  
+🔹Gerar script de leitura do arquivo formato PARQUET;  
+🔹Mapear as colunas de destino (MAPPING).  
 
-Site do IBGE: https://servicodados.ibge.gov.br/api/docs
-
-✅ Acesse o vídeo no link abaixo:
+▶️ Acesse o vídeo no link abaixo:
 https://www.fabioms.com.br/?url=azure-synapse-obter-municipios-formato-parquet
 
 😉 Gostou do conteúdo? Inscreva-se também no canal:
-https://www.fabioms.com.br/?url=youtube-subscribe 
+http://www.fabioms.com.br/?url=youtube-subscribe
+
+🎁Conheça o Projeto Banco de Dados de Estudo gratuito, disponível para comunidade no Repositório Github.
+http://www.fabioms.com.br/?url=github-estudados
+
+📁 Arquivos disponíveis no GitHub, não esquece de seguir:
+http://www.fabioms.com.br/?url=github
 
 #microsoft #dataplatform #datamanagement #azure #synapseanalytics #pipeline  #json #parquet #ibge #dataanalysis #analytics  #DicadoFabinho
