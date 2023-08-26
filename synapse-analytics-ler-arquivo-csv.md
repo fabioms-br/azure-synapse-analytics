@@ -1,6 +1,6 @@
-## Ler dados em arquivo CSV no Azure Synapse Analytics
+## Como ler dados em arquivo CSV no Azure Synapse Analytics
 
-<img src="https://fabioms.com.br/uploads/youtube/5mHrtshdgTw.png" alt="Ler dados em arquivo CSV no Azure Synapse Analytics" title="Azure Synapse Analytics" width="320"/>
+<img src="https://fabioms.com.br/uploads/youtube/Slide57.png" alt="Como ler dados em arquivo CSV no Azure Synapse Analytics" title="Azure Synapse Analytics" width="320"/>
 
 Diminuímos a curva de aprendizando utilizando o Azure Synapse Analytics para ler dados em arquivo CSV de forma simples e rápida.
 

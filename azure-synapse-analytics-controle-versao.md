@@ -1,6 +1,6 @@
-## Controle de Versão no Azure Synapse Analytics
+## Como fazer controle de versão no Azure Synapse Analytics
 
-<img src="https://fabioms.com.br//uploads/youtube/Oog4lmPIN3M.png" alt="Controle de Versão no Azure Synapse Analytics" title="Azure Synapse Analytics" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide79.png" alt="Como fazer controle de versão no Azure Synapse Analytics" title="Azure Synapse Analytics" width="320"/>
 
 Apresentamos nesse vídeo como habilitar o controle de versão dos objetos existentes do Azure Synapse Analytics associando ao repositório do Azure DevOps.
 

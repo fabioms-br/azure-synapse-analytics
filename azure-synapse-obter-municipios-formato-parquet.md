@@ -1,6 +1,6 @@
 ## Como ler dados no formato JSON no Azure Synapse Analytics
 
-<img src="https://fabioms.com.br/uploads/youtube/uU9WbUUd9KQ.png" alt="Como ler dados no formato JSON no Azure Synapse Analytics" title="Azure Synapse Analytics" width="320"/>
+<img src="https://fabioms.com.br/uploads/youtube/Slide61.png" alt="Como ler dados no formato JSON no Azure Synapse Analytics" title="Azure Synapse Analytics" width="320"/>
 
 Apresentamos nesse vídeo como ler dados em formato JSON, obtendo os munícipios do Brasil do site IBGE e armazenando no Azure Datalake em format Parquet utilizando o Azure Synapse Analytics.
 

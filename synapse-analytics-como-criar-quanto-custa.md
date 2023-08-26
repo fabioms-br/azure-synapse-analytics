@@ -1,6 +1,6 @@
-## #066 Como Criar e Quanto Custa o Azure Synapse Analytics
+## Como Criar e Quanto Custa o Azure Synapse Analytics
 
-<img src="https://fabioms.com.br//uploads/daily-posts/Slide66.mp4" alt="#066 Como Criar e Quanto Custa o Azure Synapse Analytics" title="Azure Synapse Analytics" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide56.png" alt="Como Criar e Quanto Custa o Azure Synapse Analytics" title="Azure Synapse Analytics" width="320"/>
 
 Apresentamos nesse vídeo como criar, e quanto custa o recurso Azure Synapse Analytics, disponibilizando um ambiente integrado com ingestão de dados e computação em nuvem para aumentar a produtividade reduzindo a curva de aprendizado.
 

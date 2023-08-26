@@ -1,6 +1,6 @@
-## Integrar o Power BI Serviço no Azure Synapse Analytics
+## Como integrar o Power BI Serviço no Azure Synapse Analytics
 
-<img src="https://fabioms.com.br//uploads/youtube/QR1_BvIGym4.png" alt="Integrar o Power BI Serviço no Azure Synapse Analytics" title="Azure Synapse Analytics" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide63.png" alt="Como integrar o Power BI Serviço no Azure Synapse Analytics" title="Azure Synapse Analytics" width="320"/>
 
 Nesse vídeo apresentamos como integrar o Power BI Serviço no Azure Synapse Analytics utilizando a publicação de relatório existente e criando um novo dentro dessa estrutura.
 

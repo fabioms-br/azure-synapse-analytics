@@ -1,6 +1,6 @@
-## Criar Lake Database no Azure Synapse Analytics
+## Como criar Lake Database no Azure Synapse Analytics
 
-<img src="https://fabioms.com.br//uploads/youtube/pzV-V_vtdso.png" alt="Criar Lake Database no Azure Synapse Analytics" title="Azure Synapse Analytics" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide65.png" alt="Como criar Lake Database no Azure Synapse Analytics" title="Azure Synapse Analytics" width="320"/>
 
 Apresentamos nesse vídeo como criar o Lake Database, uma estrutura mais intuitiva que integra o melhor do Datalake com o banco de dados SQL do Azure Synapse Analytics.
 

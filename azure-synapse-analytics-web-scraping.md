@@ -1,6 +1,6 @@
 ## Como Fazer Web Scraping no Azure Synapse Analytics
 
-<img src="https://fabioms.com.br//uploads/youtube/RqCHdIS46H4.png" alt="Como Fazer Web Scraping no Azure Synapse Analytics" title="Azure Synapse Analytics" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide74.png" alt="Como Fazer Web Scraping no Azure Synapse Analytics" title="Azure Synapse Analytics" width="320"/>
 
 Apresentamos nesse video como utilizar a técnica de Web Scraping para extrair dados de páginas da internet utilizando o Python no Azure Synapse Analytics.
 

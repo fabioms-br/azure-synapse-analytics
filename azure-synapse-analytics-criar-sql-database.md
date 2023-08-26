@@ -1,6 +1,6 @@
-## Criar Banco de Dados SQL no Azure Synapse Analytics
+## Como criar banco de dados SQL no Azure Synapse Analytics
 
-<img src="https://fabioms.com.br/uploads/youtube/fJqCGK9kopo.png" alt="Criar Banco de Dados SQL no Azure Synapse Analytics" title="Azure Synapse Analytics" width="320"/>
+<img src="https://fabioms.com.br/uploads/youtube/Slide59.png" alt="Como criar banco de dados SQL no Azure Synapse Analytics" title="Azure Synapse Analytics" width="320"/>
 
 Apresentamos nesse vídeo como utilizar a estrutura do Azure Synapse Analytics para criar o banco de dados SQL Serverless e disponibilizar os dados no Power BI.
 
